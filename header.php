@@ -9,5 +9,6 @@ if (!isset($_SESSION))
   echo ' <a href="index.php">Home</a> -
   <a href="login.php">Login</a> -
   <a href="employeeLogin.php">Employee Login</a> -
-  <a href="sandwich.php">Sandwich</a>';
+  <a href="sandwich.php">Sandwich</a> -
+  <a href="../vendor/retryupload.php">Upload your sandwich</a>';
 ?>
